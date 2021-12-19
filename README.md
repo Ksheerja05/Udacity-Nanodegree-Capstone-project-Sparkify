@@ -25,7 +25,7 @@ There is one jupyter notebook available here to showcase my work. Markdown cells
 
 <a id='blog'></a>
 ## Medium Blog Post
-Main findings and explanations can be found in my blog post [here](#).
+Main findings and explanations can be found in my blog post [here](#https://medium.com/@ksheerjaseth0502/pyspark-project-predicting-churn-for-a-music-app-6a92cc9225d7).
 
 <a id='acknowledgement'></a>
 ## Acknowledgement
