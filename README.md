@@ -21,7 +21,7 @@ For this project, I have predicted customer churn using the history of customer 
 
 <a id='files'></a>
 ## File Description
-There is one jupyter notebook available here to showcase my work. Markdown cells were used throughout.
+There is one jupyter notebook and a html file available here to showcase my work. Markdown cells were used throughout.
 
 <a id='blog'></a>
 ## Medium Blog Post
